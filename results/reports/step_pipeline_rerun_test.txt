@@ -1,0 +1,4 @@
+C4 step pipeline rerun test: PASS
+Method: compared existing C-stage output hashes against hashes after one full C1-C3 rerun.
+na_periodic_steps.csv sha256: 4cccdcdeb5ef4a2698b1c8e409f3cf10af88f3819c51776168b5e582c51f09e3
+suspicious_jumps.csv sha256: b7feecca7b31521c7144c044c63523a43ebd432a9d1fd883685ac6c5409c5e65

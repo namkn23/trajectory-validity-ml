@@ -1,0 +1,7 @@
+B1 Na coordinate extraction: COMPLETE
+rows: 188592
+columns: frame, na_index, x, y, z
+min_frame: 1
+max_frame: 3929
+unique_frames: 3929
+unique_na_indices: 48

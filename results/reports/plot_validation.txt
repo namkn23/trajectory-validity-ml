@@ -1,0 +1,7 @@
+E4 generated plot validation: PASS
+results/plots/msd_by_na_atom.png: readable PNG, bytes=132993, size=1600x900
+results/plots/mean_displacement_by_na_atom.png: readable PNG, bytes=131802, size=1600x900
+results/plots/max_displacement_by_na_atom.png: readable PNG, bytes=138542, size=1600x900
+results/plots/step_magnitude_histogram.png: readable PNG, bytes=57469, size=1400x900
+results/plots/atom_msd_histogram.png: readable PNG, bytes=41073, size=1400x900
+results/plots/atom_mean_step_histogram.png: readable PNG, bytes=47015, size=1400x900

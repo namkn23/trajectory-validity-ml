@@ -1,0 +1,12 @@
+XDATCAR structural audit
+=======================
+
+source_file: data/XDATCAR
+scale: 1.0
+species: Na Sb S
+counts: 48 16 64
+total_atoms: 128
+frame_count: 3929
+coordinate_rows_per_frame_expected: 128
+malformed_frames: 0
+bad_coordinate_rows: 0

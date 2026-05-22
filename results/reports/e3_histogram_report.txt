@@ -1,0 +1,9 @@
+E3 histogram generation: COMPLETE
+step histogram: results/plots/step_magnitude_histogram.png
+atom MSD histogram: results/plots/atom_msd_histogram.png
+atom mean step histogram: results/plots/atom_mean_step_histogram.png
+step rows plotted: 188544
+atom rows plotted: 48
+step histogram bytes: 57469
+MSD histogram bytes: 41073
+mean step histogram bytes: 47015

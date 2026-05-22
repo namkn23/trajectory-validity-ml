@@ -1,0 +1,10 @@
+C2 step statistics validation: PASS
+rows: 188544
+from_frame range: 1-3928
+to_frame range: 2-3929
+unique Na indices: 48
+step_frac min: 9.001583194078176e-06
+step_frac mean: 0.0003543748056864947
+step_frac median: 0.00034114678189855
+step_frac max: 0.0010900846112572
+max step recomputation error: 1.6653345369377348e-16

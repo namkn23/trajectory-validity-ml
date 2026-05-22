@@ -1,0 +1,7 @@
+E2 displacement plot generation: COMPLETE
+input: results/tables/displacement_features.csv
+mean displacement plot: results/plots/mean_displacement_by_na_atom.png
+max displacement plot: results/plots/max_displacement_by_na_atom.png
+rows plotted: 48
+mean plot bytes: 131802
+max plot bytes: 138542

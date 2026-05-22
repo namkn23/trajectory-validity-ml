@@ -1,0 +1,5 @@
+D3 mobility spread feature computation: COMPLETE
+input Na atoms: 48
+summary rows: 6
+largest coefficient_of_variation feature: msd_frac
+largest coefficient_of_variation value: 0.3490528127870304

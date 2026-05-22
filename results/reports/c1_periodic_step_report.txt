@@ -1,0 +1,8 @@
+C1 periodic-boundary step computation: COMPLETE
+rows: 188544
+from_frame range: 1-3928
+to_frame range: 2-3929
+unique Na indices: 48
+step_frac min: 9.001583194078176e-06
+step_frac max: 0.001090084611257254
+step_frac mean: 0.0003543748056865437

@@ -1,0 +1,4 @@
+G4 methodology document generation: PASS
+methodology file: docs/methodology.md
+character count: 8284
+sections included: input, audit, extraction, PBC steps, features, plots, ML diagnostics, reproducibility, limitations, future extensions

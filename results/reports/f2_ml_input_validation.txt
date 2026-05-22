@@ -1,0 +1,5 @@
+F2 ML input validation: PASS
+rows: 48
+scaled feature count: 7
+maximum absolute scaled mean: 1.6283271027835629e-15
+maximum std deviation error: 2.220446049250313e-16

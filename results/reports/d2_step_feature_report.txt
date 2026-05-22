@@ -1,0 +1,8 @@
+D2 step feature computation: COMPLETE
+rows: 48
+mean_step_frac min: 0.0002823667544176903
+mean_step_frac max: 0.0004240265557991401
+max_step_frac min: 0.0006482458843679
+max_step_frac max: 0.0010900846112572
+step_std_frac min: 0.00011007044393450829
+step_std_frac max: 0.0001772036552293244

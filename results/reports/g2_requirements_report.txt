@@ -1,0 +1,9 @@
+G2 requirements generation: PASS
+requirements file: requirements.txt
+package count: 5
+packages:
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- pillow

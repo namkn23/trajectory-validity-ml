@@ -1,0 +1,8 @@
+B2 Na coordinate validation: PASS
+rows: 188592
+frames: 1-3929
+unique_frames: 3929
+Na atoms per frame: 48
+x range: 2e-08 to 0.99999921
+y range: 4.9e-07 to 0.99999966
+z range: 7e-08 to 0.99999967

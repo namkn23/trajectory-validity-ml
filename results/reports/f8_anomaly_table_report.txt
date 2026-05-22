@@ -1,0 +1,7 @@
+F8 anomaly table generation: COMPLETE
+input: results/tables/anomaly_scores.csv
+ranking output: results/tables/anomaly_score_ranking.csv
+flagged output: results/tables/flagged_anomalies.csv
+total ranked atoms: 48
+flagged anomalies: 5
+interpretation: ranking supports manual trajectory inspection only.

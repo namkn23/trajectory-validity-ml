@@ -1,0 +1,8 @@
+D1 displacement feature computation: COMPLETE
+rows: 48
+msd_frac min: 0.0007855314491224399
+msd_frac max: 0.003859715537743403
+mean_displacement_frac min: 0.025305502220527323
+mean_displacement_frac max: 0.059763397562803286
+max_displacement_frac min: 0.05370700162873835
+max_displacement_frac max: 0.11619205317483336

@@ -1,0 +1,2 @@
+B3 Na extraction rerun test: PASS
+na_coordinates.csv sha256: 765f06fecb2110d5d091a425f8135499fb555074cfbc8a2d7484689fb3138c90

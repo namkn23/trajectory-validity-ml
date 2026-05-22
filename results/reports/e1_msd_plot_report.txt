@@ -1,0 +1,7 @@
+E1 MSD plot generation: COMPLETE
+input: results/tables/displacement_features.csv
+output: results/plots/msd_by_na_atom.png
+rows plotted: 48
+msd_frac min: 0.0007855314491224
+msd_frac max: 0.0038597155377434
+output bytes: 132993

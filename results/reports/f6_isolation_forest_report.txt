@@ -1,0 +1,9 @@
+F6 Isolation Forest anomaly scoring: COMPLETE
+input: results/tables/ml_input_scaled.csv
+output: results/tables/anomaly_scores.csv
+rows scored: 48
+features used: 7
+contamination: 0.1
+random_state: 7
+flagged anomalies: 5
+interpretation: diagnostic ranking only; flagged atoms require physical inspection.

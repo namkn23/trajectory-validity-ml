@@ -1,0 +1,11 @@
+G5 final repository validation: PASS
+validated tables: 15
+validated plots: 9
+validated scripts: 31
+run_pipeline.py: PASS
+Na coordinate rows: 188592
+periodic step rows: 188544
+max step_frac: 0.0010900846112572
+ML input rows: 48
+PCA variance sum: 0.7417707119294363
+flagged anomalies: 5

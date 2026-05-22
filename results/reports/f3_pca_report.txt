@@ -1,0 +1,9 @@
+F3 PCA computation: COMPLETE
+input: results/tables/ml_input_scaled.csv
+embedding output: results/tables/pca_embeddings.csv
+explained variance output: results/tables/pca_explained_variance.csv
+rows: 48
+features used: 7
+pc1 explained variance ratio: 0.4382335791907822
+pc2 explained variance ratio: 0.3035371327386541
+two-component explained variance ratio sum: 0.7417707119294363

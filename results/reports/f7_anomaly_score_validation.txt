@@ -1,0 +1,7 @@
+F7 anomaly score validation: PASS
+rows: 48
+unique Na indices: 48
+flagged anomalies: 5
+anomaly fraction: 0.10416666666666667
+minimum anomaly score: -0.0954043425307816
+maximum anomaly score: 0.1541658516855206

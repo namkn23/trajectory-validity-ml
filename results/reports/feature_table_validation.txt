@@ -1,0 +1,9 @@
+D5 feature table validation: PASS
+atom feature rows: 48
+frame feature rows: 3928
+atom feature columns: 8
+frame feature columns: 4
+max atom MSD: 0.0038597155377434
+max atom displacement: 0.1161920531748333
+max atom step: 0.0010900846112572
+max frame step: 0.0010900846112572

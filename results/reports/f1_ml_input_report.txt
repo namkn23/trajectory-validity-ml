@@ -1,0 +1,7 @@
+F1 ML input preparation: COMPLETE
+input: results/tables/atom_features.csv
+output: results/tables/ml_input_scaled.csv
+rows: 48
+features selected: 7
+feature columns: msd_frac, mean_displacement_frac, max_displacement_frac, final_displacement_frac, mean_step_frac, max_step_frac, step_std_frac
+scaling: StandardScaler fit on atom-level feature table

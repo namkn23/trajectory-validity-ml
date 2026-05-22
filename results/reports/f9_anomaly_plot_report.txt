@@ -1,0 +1,8 @@
+F9 anomaly plot generation: COMPLETE
+score input: results/tables/anomaly_scores.csv
+pca input: results/tables/pca_embeddings.csv
+distribution plot: results/plots/anomaly_score_distribution.png
+overlay plot: results/plots/pca_anomaly_overlay.png
+rows plotted: 48
+flagged anomalies: 5
+interpretation: plots support diagnostic inspection only.

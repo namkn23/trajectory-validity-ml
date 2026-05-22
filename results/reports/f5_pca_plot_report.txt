@@ -1,0 +1,8 @@
+F5 PCA plot generation: COMPLETE
+input embeddings: results/tables/pca_embeddings.csv
+input explained variance: results/tables/pca_explained_variance.csv
+output: results/plots/pca_embedding_scatter.png
+points plotted: 48
+pc1 explained variance ratio: 0.4382335791907822
+pc2 explained variance ratio: 0.3035371327386541
+output bytes: 86985

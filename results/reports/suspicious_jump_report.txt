@@ -1,0 +1,6 @@
+C3 suspicious jump detection: COMPLETE
+threshold: 0.0009
+flagged_events: 149
+max_step_frac: 0.0010900846112572
+mean_flagged_step_frac: 0.0009631200937799853
+unique_flagged_na_indices: 9

@@ -1,0 +1,5 @@
+D4 feature table assembly: COMPLETE
+atom feature rows: 48
+frame feature rows: 3928
+atom feature columns: 8
+frame feature columns: 4

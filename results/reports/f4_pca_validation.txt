@@ -1,0 +1,6 @@
+F4 PCA validation: PASS
+embedding rows: 48
+variance rows: 2
+pc1 explained variance ratio: 0.4382335791907822
+pc2 explained variance ratio: 0.3035371327386541
+two-component explained variance ratio sum: 0.7417707119294363
