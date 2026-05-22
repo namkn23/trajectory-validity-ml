@@ -1,0 +1,2 @@
+source_file,scale,species,counts,total_atoms,frame_count,coordinate_rows_per_frame_expected,malformed_frames,bad_coordinate_rows
+data/XDATCAR,1.0,Na Sb S,48 16 64,128,3929,128,0,0
