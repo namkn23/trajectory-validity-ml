@@ -208,7 +208,7 @@ The ML stages are deliberately lightweight and diagnostic. They summarize valida
 - No direct MLFF validation metrics.
 - Anomaly detection is diagnostic, not proof of physical correctness.
 
-## Future extensions
+# Future extensions
 
 Possible extensions include:
 
@@ -216,13 +216,6 @@ Possible extensions include:
 - Na coordination and cage analysis
 - Voronoi or free-volume descriptors
 - RDF or van Hove correlation diagnostics
-- lightweight autoencoder anomaly score
 - force and energy consistency checks
 - MLFF validation metric integration
 - comparison across pristine, doped, and vacancy-containing trajectories
-
-## Notes on scope
-
-This is a modest, transparent trajectory diagnostics repository.
-It is not a universal MLFF validation platform.
-The priority is traceability, reproducibility, and physical interpretability of intermediate outputs.
